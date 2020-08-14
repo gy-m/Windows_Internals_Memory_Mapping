@@ -17,7 +17,7 @@ For creating the large sized file, download python and run the provided script.
 Run the python script. To change the size of the file created, you can change the code (The  desired size is a variable hardcoded named TOTAL_FILE_SIZE_IN_GB).
 Run the Solutions (VS), which consists of 2 projects, with the following arguments:
 
-for project 1 - <<path to the large sized file>>
+for project 1 - <path to the large sized file<path to the large sized file>>
  
 for project 2 - <size of the desired file to be created, desired offset, destination path> (without commas)
  
