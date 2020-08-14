@@ -18,6 +18,7 @@ Run the python script. To change the size of the file created, you can change th
 Run the Solutions (VS), which consists of 2 projects, with the following arguments:
 
 for project 1 - <path to the large sized file>
+ 
 for project 2 - <size of the desired file to be created, desired offset, destination path> (without commas)
  
 
